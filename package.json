@@ -1,0 +1,23 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "airdrop.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Virtucious/airdrop.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Virtucious/airdrop/issues"
+  },
+  "homepage": "https://github.com/Virtucious/airdrop#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.69.0"
+  }
+}
